@@ -1,1 +1,1 @@
-# easypay_project_v1.
+# easypay_project_v1
